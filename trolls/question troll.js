@@ -1,1 +1,1 @@
-c = import("Yo, How's Your Day.");
+ alert("Yo, How's Your Day.");
